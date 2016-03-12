@@ -1,0 +1,2 @@
+# BootStrapCompanyHome
+Simple template
